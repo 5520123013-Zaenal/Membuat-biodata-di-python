@@ -1,5 +1,3 @@
-# Membuat-biodata-di-python
-#Saya membuat tugas biodata di python
 
 print("BIODATA")
 print("Nama:Zaenal Aripin")
